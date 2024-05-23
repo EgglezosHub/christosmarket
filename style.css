@@ -94,6 +94,7 @@ header a{
     gap: 20px;
 }
 .thumbnail .item{
+    display: none;
     width: 20%;
     height: 85px;
     flex-shrink: 0;
