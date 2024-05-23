@@ -8,7 +8,7 @@ body{
     font-family: Poppins;
     font-size: 12px;
     position: relative;
-    background-image: url(/images/n1.jpg);
+    background-image: url(n1.jpg);
     background-position: right;
     background-size: cover;
     background-attachment: fixed;
@@ -74,7 +74,7 @@ header a{
     overflow: auto;
 }
 #box2{
-    background-image: url(/images/who1.jpg);
+    background-image: url(who1.jpg);
     background-position: center;
     background-size:contain;
     background-repeat: no-repeat;
@@ -86,7 +86,7 @@ header a{
     width: 45%;
 }
 #box3{
-    background-image: url(/images/CHRISTOS.png);
+    background-image: url(CHRISTOS.png);
     background-position: center;
     background-size:contain;
     background-repeat: no-repeat;
@@ -109,7 +109,7 @@ header a{
     overflow: auto;
 }
 #box6{
-    background-image: url(/images/pexels-dana-tentis-118658-315843.jpg);
+    background-image: url(pexels-dana-tentis-118658-315843.jpg);
     background-position: center;
     background-size:contain;
     background-repeat: no-repeat;
